@@ -12,4 +12,4 @@ This is a roBERTa-base model trained on ~124M tweets from January 2018 to Decemb
 https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest?text=Covid+cases+are+increasing+fast%21
 
 
-![image](Sentiment analysis chart.png)
+![image](chart.png)
