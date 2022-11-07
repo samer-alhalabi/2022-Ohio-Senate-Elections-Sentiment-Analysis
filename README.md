@@ -10,3 +10,6 @@ Github Repo: https://github.com/JustAnotherArchivist/snscrape
 Twitter-roBERTa-base for Sentiment Analysis - UPDATED (2021)
 This is a roBERTa-base model trained on ~124M tweets from January 2018 to December 2021, and finetuned for sentiment analysis with the TweetEval benchmark
 https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest?text=Covid+cases+are+increasing+fast%21
+
+
+![image](Sentiment analysis chart.png)
