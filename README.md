@@ -1,6 +1,6 @@
 # 2022 Ohio Senate Elections Sentiment Analysis
 
-The 2022 midterm elections are scheduled to be held tomorrow Nov 8th, and thought it was a good time to do a quick analysis to understand the public mood in Ohio and opinion towards the senate candidates.
+The 2022 midterm elections are scheduled to be held on Nov 8th, and thought it was a good time to do a quick analysis to understand the public mood in Ohio and opinion towards the senate candidates.
 
 For this analysis, I collected tweets since Jan 2022 using "Snscrape" to scrape tweets from Twitter, and performed sentiment classification using "Twitter-roBERTa-base" model, which was trained by Hugging Face.
 
