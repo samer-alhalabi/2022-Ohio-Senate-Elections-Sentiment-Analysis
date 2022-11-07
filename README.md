@@ -1,15 +1,12 @@
 # 2022 Ohio Senate Elections Sentiment Analysis
 
-The 2022 midterm Elections are scheduled to be held tomorrow and thought it was a good time to understand the public mood and opinion towards the Ohio senate leading candidates. 
+The 2022 midterm Elections are scheduled to be held tomorrow and thought it was a good time to do a quick analysis to understand the public mood in Ohio and opinion towards the senate candidates.
 
-For this analysis, I have collected tweets made since Jan 2022 using Snscrape to scrape tweets from Twitter and performed sentiment classification model (Twitter-roBERTa-base) trained by HuggingFace.
+For this analysis, I collected tweets since Jan 2022 using "Snscrape" to scrape tweets from Twitter, and performed sentiment classification using "Twitter-roBERTa-base" model, which was trained by Hugging Face.
 
-snscrape to pull tweets
-Github Repo: https://github.com/JustAnotherArchivist/snscrape
+Snscrape: Github Repo: https://github.com/JustAnotherArchivist/snscrape
 
-Twitter-roBERTa-base for Sentiment Analysis - UPDATED (2021)
-This is a roBERTa-base model trained on ~124M tweets from January 2018 to December 2021, and finetuned for sentiment analysis with the TweetEval benchmark
-https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest?text=Covid+cases+are+increasing+fast%21
+Twitter-roBERTa-base for Sentiment Analysis - UPDATED (2021): https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest?text=Covid+cases+are+increasing+fast%21
 
 
 ![image](chart.png)
